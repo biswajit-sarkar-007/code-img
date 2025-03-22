@@ -4,6 +4,8 @@
 
 Code to Image is a web application that allows you to convert your code snippets into beautifully styled PNG images. It provides various customization options such as background selection, syntax highlighting, padding adjustments, and multi-language support.
 
+here also added image anayager tool with the help of gemenai and , for make it more decorated i am added billings section , testimonial section , faq, footer .
+
 # 🔧 Technologies Used
 
 This project is built using modern web technologies and JavaScript libraries:
