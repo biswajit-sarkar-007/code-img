@@ -91,6 +91,11 @@ git clone https://github.com/yourusername/code-to-image.git
 cd code-to-image
 ```
 
+```
+craete .env file added their google gemenai api key by the name of:
+
+```
+
 2. Install dependencies:
 ```
 npm install
@@ -107,3 +112,8 @@ yarn dev
 ```
 
 4.Open http://localhost:3000 in your browser.
+
+
+# demo
+
+https://github.com/biswajit-sarkar-007/code-img/issues/1
