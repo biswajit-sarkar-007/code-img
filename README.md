@@ -93,7 +93,7 @@ cd code-to-image
 
 ```
 craete .env file added their google gemenai api key by the name of:
-
+NEXT_PUBLIC_GOOGLE_GEMINI_API_KEY=your gemeni-api-key
 ```
 
 2. Install dependencies:
