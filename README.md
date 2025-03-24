@@ -27,7 +27,7 @@ This project is built using modern web technologies and JavaScript libraries:
 
 📂 Project Structure
 
-The project follows a well-organized structure:
+The project follows a well-organized structure:  [this architecture is not updated one ]
 ```
 /app
   ├── global.css             # Global styles
